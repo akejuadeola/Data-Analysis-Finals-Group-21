@@ -1,0 +1,64 @@
+Country name,Regional indicator,Ladder score,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+Finland,Western Europe,7.741,10.89,0.954,72.0,0.949,-0.033,0.186
+Denmark,Western Europe,7.583,10.93,0.954,72.7,0.946,0.173,0.179
+Iceland,Western Europe,7.525,10.88,0.983,73.0,0.946,0.306,0.686
+Sweden,Western Europe,7.344,10.87,0.934,72.6,0.947,0.186,0.191
+Israel,Middle East and North Africa,7.341,10.66,0.961,72.0,0.839,0.149,0.745
+Netherlands,Western Europe,7.319,10.94,0.928,72.4,0.908,0.241,0.365
+Norway,Western Europe,7.302,11.08,0.954,73.0,0.96,0.105,0.263
+Luxembourg,Western Europe,7.122,11.44,0.907,72.6,0.906,0.106,0.389
+Switzerland,Western Europe,7.06,11.22,0.942,74.6,0.92,0.205,0.367
+Australia,North America and ANZ,7.057,10.83,0.944,73.7,0.916,0.269,0.508
+New Zealand,North America and ANZ,7.023,10.69,0.953,73.0,0.942,0.328,0.394
+Canada,North America and ANZ,6.9,10.83,0.935,73.0,0.908,0.179,0.461
+Austria,Western Europe,6.905,10.88,0.926,73.0,0.892,0.021,0.5
+Belgium,Western Europe,6.894,10.85,0.916,72.0,0.87,0.028,0.564
+Ireland,Western Europe,6.838,11.37,0.931,72.3,0.916,0.175,0.467
+Czechia,Central and Eastern Europe,6.822,10.45,0.924,70.5,0.854,0.025,0.788
+United States,North America and ANZ,6.725,11.06,0.903,68.3,0.843,0.182,0.664
+United Kingdom,Western Europe,6.716,10.82,0.924,71.9,0.876,0.282,0.52
+Germany,Western Europe,6.719,10.87,0.916,72.4,0.857,0.009,0.48
+France,Western Europe,6.609,10.79,0.904,73.5,0.806,-0.001,0.681
+Singapore,Southeast Asia,6.523,11.4,0.895,77.2,0.912,0.139,0.222
+Spain,Western Europe,6.421,10.57,0.935,74.8,0.82,-0.014,0.713
+Italy,Western Europe,6.329,10.64,0.916,74.3,0.721,-0.028,0.786
+Japan,East Asia,6.06,10.68,0.921,75.7,0.713,-0.015,0.726
+South Korea,East Asia,5.951,10.72,0.871,73.6,0.759,-0.08,0.795
+Brazil,Latin America and Caribbean,6.347,9.81,0.898,66.7,0.803,0.137,0.854
+Mexico,Latin America and Caribbean,6.33,9.71,0.894,67.6,0.782,0.057,0.882
+Argentina,Latin America and Caribbean,6.024,9.98,0.907,68.8,0.808,-0.005,0.857
+Chile,Latin America and Caribbean,6.339,9.95,0.907,70.1,0.826,-0.026,0.764
+Costa Rica,Latin America and Caribbean,6.609,9.82,0.895,70.0,0.863,0.084,0.736
+Uruguay,Latin America and Caribbean,6.311,10.1,0.913,69.1,0.855,0.069,0.714
+China,East Asia,5.973,9.93,0.831,68.5,0.879,-0.093,0.749
+India,South Asia,4.054,8.59,0.656,60.3,0.631,0.239,0.739
+Pakistan,South Asia,4.657,8.17,0.736,58.1,0.498,0.27,0.88
+Bangladesh,South Asia,4.289,8.18,0.594,63.1,0.528,0.176,0.836
+Russia,Commonwealth of Independent States,5.785,10.07,0.837,63.5,0.698,-0.048,0.921
+Ukraine,Commonwealth of Independent States,4.894,9.23,0.821,63.0,0.632,0.165,0.836
+Poland,Central and Eastern Europe,6.144,10.45,0.891,70.3,0.818,-0.012,0.786
+Hungary,Central and Eastern Europe,6.0,10.32,0.86,67.8,0.761,-0.056,0.831
+Romania,Central and Eastern Europe,6.256,10.24,0.868,67.2,0.815,-0.052,0.847
+Greece,Western Europe,6.222,10.33,0.866,72.0,0.707,-0.089,0.853
+Portugal,Western Europe,6.119,10.37,0.892,72.2,0.835,0.024,0.59
+Turkey,Middle East and North Africa,4.614,10.07,0.844,68.0,0.58,0.079,0.877
+Saudi Arabia,Middle East and North Africa,6.324,10.69,0.859,67.0,0.885,0.083,0.488
+UAE,Middle East and North Africa,6.733,11.02,0.822,67.3,0.938,0.271,0.314
+Israel,Middle East and North Africa,7.341,10.66,0.961,72.0,0.839,0.149,0.745
+South Africa,Sub-Saharan Africa,5.635,9.37,0.76,57.2,0.741,0.123,0.832
+Nigeria,Sub-Saharan Africa,4.477,8.27,0.685,55.4,0.577,0.228,0.89
+Kenya,Sub-Saharan Africa,4.58,8.08,0.64,58.5,0.738,0.277,0.87
+Ethiopia,Sub-Saharan Africa,3.966,7.49,0.597,59.0,0.602,0.216,0.839
+Ghana,Sub-Saharan Africa,4.91,8.18,0.724,58.3,0.753,0.209,0.861
+Morocco,Middle East and North Africa,5.488,8.67,0.694,66.3,0.619,0.087,0.741
+Egypt,Middle East and North Africa,4.224,8.62,0.773,62.7,0.613,0.046,0.837
+Indonesia,Southeast Asia,5.277,9.1,0.842,63.0,0.833,0.529,0.826
+Malaysia,Southeast Asia,5.975,9.82,0.844,67.3,0.752,0.184,0.741
+Thailand,Southeast Asia,5.984,9.56,0.859,68.4,0.716,0.404,0.838
+Vietnam,Southeast Asia,5.572,9.03,0.832,67.7,0.9,0.22,0.726
+Philippines,Southeast Asia,5.905,8.84,0.84,63.3,0.807,0.282,0.865
+Kazakhstan,Commonwealth of Independent States,6.087,10.09,0.844,64.9,0.799,0.136,0.83
+Colombia,Latin America and Caribbean,5.63,9.43,0.861,68.0,0.775,0.069,0.893
+Peru,Latin America and Caribbean,5.559,9.37,0.832,67.3,0.712,0.012,0.916
+Ecuador,Latin America and Caribbean,5.345,9.31,0.862,66.0,0.772,0.076,0.882
+Bolivia,Latin America and Caribbean,5.569,8.94,0.836,64.4,0.75,0.148,0.854
