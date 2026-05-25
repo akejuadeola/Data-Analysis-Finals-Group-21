@@ -7,6 +7,7 @@
 3. **GDP Dataset** - worldbank_gdp.csv is included for reference; however, the Python code can regenerate this dataset automatically if needed.
 4. **Main Project File** - happiness_project_group21.py contains the complete final project workflow and analysis.
 5. **SQL Queries** - All standalone SQL queries used in the project are included in sql_queries_group21.py.
+6. **PDF Presentation** - Final presentation of analysis to be discussed in class
 
 *Project Overview*
 
